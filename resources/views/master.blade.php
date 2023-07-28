@@ -12,7 +12,6 @@
     <title>Master class</title>
 </head>
 <body>
-    @yield('header')
     {{View::make('header')}}
     @yield('content')
     {{View::make('footer')}}
