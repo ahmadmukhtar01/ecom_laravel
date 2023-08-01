@@ -22,5 +22,18 @@
         padding-top: 100px
 
     }
+    img.slider_img{
+        height: 400px !important;
+    }
+    .trending_img{
+        height: 100px;
+    }
+    .trending_item{
+        float: left;
+        width: 20%;
+    }
+    .detail-img{
+        height: 200px;
+    }
 </style>
 </html>
